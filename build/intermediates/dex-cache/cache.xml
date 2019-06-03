@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.2.aar\f80d4d0084f731f51740fdf17aacfe28\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63e7f521cc66c17dd9a22fbf75925a7947bfef7a">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f4e8cb5ba509d084c8fb70212831b21e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\4f6103b79221099f94ab243e2fd2754e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\329e4001911fb67850de0c715e136d1b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2c4f6b58ce52d4644990d04943efa55c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\992b2a0f97eaa816aa691cecb006f258\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6acb8ae8ead868a600c7f949e797eca7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\08ded0dadae88b3db600be9f0ce9ccb4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\759804581779439e9feb79842b8ac180\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5fb336843f26955c95e5c91ca4042a11\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\e6d43ba71aa7a727412eeacb41ef9b0e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fb063648171350b67583091248e15271\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\87b8a2448e0e63cc77914456761f23e0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\d90f7e0bde5b0aef1bde76c40a784a63\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d1939184725c21c4406683aabfd8e548\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\76364e7306908333f559a8ee40f30c9f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neelkanth Dabhi\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\4bf03fdf86edf12d8ae53251b63cfc61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Neelkanth Dabhi\Desktop\NotySave\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+
+</items>
