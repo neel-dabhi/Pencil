@@ -34,7 +34,7 @@ and still does it's job most efficiently.
 <a name="contributing"></a>
 ## Contributing
 **Redistributing this app as your own is NOT permitted.**
-Before reporting bugs, doing features requests or embarking pull requests, be sure you have already read [contributing guidelines](https://github.com/neelkanthjdabhi/App-Digger/blob/master/CONTRIBUTING.md).
+Before reporting bugs, doing features requests or embarking pull requests, be sure you have already read [contributing guidelines](https://github.com/neelkanthjdabhi/Pencil/blob/master/CONTRIBUTING.md).
 
 <a name="changelog"></a>
 ## Changelog
